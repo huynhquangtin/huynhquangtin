@@ -1,0 +1,7 @@
+h1 {
+  color: rgb(46, 10, 129);
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
